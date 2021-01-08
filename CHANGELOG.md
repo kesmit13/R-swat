@@ -1,6 +1,10 @@
 
 # Change Log
 
+## 1.5.1 - 2021-01-08
+
+- New stuff
+
 ## 1.5.0 - 2020-06-08
 
 - Add support for R v4.0
